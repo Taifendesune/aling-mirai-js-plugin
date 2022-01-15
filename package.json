@@ -1,0 +1,23 @@
+{
+  "name": "aling-mirai-js-plugin",
+  "version": "0.1.0",
+  "description": "Mirai Js 插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./build/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taifendesune/aling-mirai-js-plugin.git"
+  },
+  "author": "aling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taifendesune/aling-mirai-js-plugin/issues"
+  },
+  "homepage": "https://github.com/Taifendesune/aling-mirai-js-plugin#readme",
+  "devDependencies": {
+    "zip-dir": "^2.0.0"
+  }
+}
